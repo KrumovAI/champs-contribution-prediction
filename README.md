@@ -1,2 +1,2 @@
 # champs-contribution-prediction
-A kernel we did for an interesting Kaggle competition
+A kernel we did for an interesting [Kaggle competition](https://www.kaggle.com/c/champs-scalar-coupling/overview). While building it, I went a lot deeper into the depth of **Feature Engineering** and more complex and optimized **pandas** operations.
